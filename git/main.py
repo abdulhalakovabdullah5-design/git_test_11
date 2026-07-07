@@ -1,1 +1,3 @@
-print("Hello, World!")
+def main(a, b):
+    if a > b:
+        print("Число больше!")
